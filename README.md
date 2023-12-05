@@ -1,4 +1,4 @@
 # basic-etl
 
-This is a repo to perform ETL on a sample dataset.
+This is a repo to perform and learn about ETL on a sample dataset
 
